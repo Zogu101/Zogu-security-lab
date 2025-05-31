@@ -45,4 +45,14 @@ This lab serves as a safe environment to:
 - Learn system hardening, detection, and defense
 - Build a strong cybersecurity portfolio
 
----
+## 📷 Screenshots
+
+### VirtualBox VM Dashboard  
+![VM Dashboard](https://github.com/Zogu101/Zogu-security-lab/blob/main/vm%20machine.png)
+
+### Kali Linux VM  
+![Kali VM Screen](https://github.com/Zogu101/Zogu-security-lab/blob/main/Kali.png)
+
+### Windows 10 VM 
+![Windows VM screen](https://github.com/Zogu101/Zogu-security-lab/blob/main/Windows.png)
+
