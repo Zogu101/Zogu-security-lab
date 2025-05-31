@@ -37,7 +37,7 @@ Welcome to my cybersecurity testing lab! This project documents the step-by-step
 
 ---
 
-## 🧠 Why This Lab Matters
+## 🎯 Why This Lab Matters
 
 This lab serves as a safe environment to:
 - Practice real-world cyber attacks
